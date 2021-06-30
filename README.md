@@ -1,3 +1,3 @@
-# sql-challenge
+# SQL_Employee_Analysis
 
-This challenge involves using sql to read a database of employees and departments within a company, put them into a table, and extract certain information about them.
+This activity involves using sql to read a database of employees and departments within a company, put them into a table, and extract certain information about them.
